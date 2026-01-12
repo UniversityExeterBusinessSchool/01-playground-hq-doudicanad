@@ -14,4 +14,4 @@ A star
 
 ## Questions I Have
 [What don't you know yet?]
-Why
+If H-H means two brick or one brick of two length
